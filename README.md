@@ -1,6 +1,6 @@
-# Deploy a smart contract to Polygon zkEVM Testnet with Hardhat and verify the contract
+# Deploy a smart contract to Polygon zkEVM Testnet with Hardhat and verif
 
-by PlonPlon
+by plonukob
 
 [Polygon zkEVM](https://wiki.polygon.technology/docs/zkEVM/introduction) is the first zero-knowledge scaling solution that is fully equivalent to an EVM. All existing smart contracts, developer toolings and wallets work seamlessly. Polygon zkEVM harnesses the power of zero-knowledge proofs in order to reduce transaction costs and massively increase throughput, all while inheriting the security of Ethereum.
 
